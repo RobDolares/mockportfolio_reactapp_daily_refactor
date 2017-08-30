@@ -1,11 +1,6 @@
 import React from 'react';
 
 const Portfolio = (props)=> {
-  let listStyles = {
-    "fontSize": "16px",
-    "listStyle": "none",
-    "padding": "0"
-  }
 
   let imgStyles = {
     borderRadius: "4px"

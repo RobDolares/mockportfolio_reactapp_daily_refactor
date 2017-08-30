@@ -5,17 +5,6 @@ import {NavLink} from 'react-router-dom';
 export default class BaseLayout extends Component {
 
   render() {
-    let headerStyle = {
-      "textAlign": "center",
-      "height": "600px",
-      "color": "#fff",
-      "backgroundImage": "url(./images/header2.jpeg)",
-      "backgroundSize": "cover",
-      "backgroundPosition": "center",
-      "boxShadow":"rgba(0, 0, 0, 0.22) -2px 9px 5px 0px",
-      "textShadow": "1px 1px 2px black",
-      "fontFamily": "decorative",
-    }
     let navTitle = {
       "fontFamily": "Bellefair",
       "fontSize": "3rem"
